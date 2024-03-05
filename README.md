@@ -1,12 +1,16 @@
 # EE_PA_dataset
-Here are the data related to the work on the interplay between East European basins and the Perm Anomaly
 
 This directory contains the data and information about the data used in the analysis 
 presented in article "East European Sedimentary Basins Long Heated by a Fading 
 Mantle Upwelling" by Alik Ismail-Zadeh, Anne Davaille, Jean Besse, and Yuri Volozh
-published in Nature Communications
+published in Nature Communications.
 
-Content 
+Content
+
+The data generated in this study have been deposited as .dat files or .zip files 
+(which contains .dat files) in this database. The data (paleogeographic maps) used 
+in Fig. S1 can be made available upon a request and a justification of their use, 
+due to data privacy laws.
 
 Fig. 1
 illustrates along selected cross-sections the data of the (a) SMEAN model and the 
@@ -47,7 +51,7 @@ as the solution to the thermal conductive problem presented in the paper
 
 Fig. S1.
 The paleogeographic maps are the property of an author of the article. 
-A reguest should be sent to the corresponding author.  
+A reguest should be sent to the corresponding author (aizadeh61@gmail.com).  
 
 Fig. S2 
 uses the image from the publication by Torsvik & Domeier (2017) 
