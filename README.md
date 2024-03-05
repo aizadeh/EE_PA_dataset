@@ -49,38 +49,30 @@ as the solution to the thermal conductive problem presented in the paper
 
 ****
 
-Fig. S1.
-The paleogeographic maps are the property of an author of the article. 
-A reguest should be sent to the corresponding author (aizadeh61@gmail.com).  
-
-Fig. S2 
+Fig. S1
 uses the image from the publication by Torsvik & Domeier (2017) 
-(https://doi.org/10.1038/s41467-017-00125-2). The figure is modified 
-by the authors.
+(https://doi.org/10.1038/s41467-017-00125-2). The figure is modified by the authors.
 
-Fig. S3 
+Fig. S2
 uses the data from the upper mantle shear velocity model CU_SRT1.0 of 
 Shapiro & Ritzwoller (2002) using the interactive plotting tools that are on the 
 CUB model main page (http://ciei.colorado.edu/~nshapiro/MODEL/plot_forms.html). 
 
-Fig. S4 
+Fig. S3
 uses the lithosphere-asthenosphere boundary data from: https://osf.io/twksd/ 
-(subfolder:
-supplementary_datasets/lithopsheric_thickness_maps/global/SL2013sv/SL2013sv.csv)
+(subfolder: supplementary_datasets/lithopsheric_thickness_maps/global/SL2013sv/SL2013sv.csv) 
+
+Fig. S4 
+uses the lithosphere-asthenosphere boundary data from: 
+http://www.lithosphere.info/downloads.html. Irina Artemieva provided higher resolution data.
 
 Fig. S5 
-uses the lithosphere-asthenosphere boundary data from: 
-http://www.lithosphere.info/downloads.html. 
-Irina Artemieva provided higher resolution data.
+uses data from Fig. 3. See files Fig3_wells.rar (for the position of boreholes) and  
+file Fig3_GPMtracks.rar (for the tracks of the projection of the Perm Anomaly plume's 
+center on the surface). 
 
-Fig. S6 
-uses data from Fig. 3. See files Fig3_wells.rar (for the position of boreholes) 
-and  file Fig3_GPMtracks.rar (for the tracks of the projection of the Perm Anomaly 
-plume's center on the surface). 
+Figs.S6, S8, S10, and S12
+Data (on tectonic subsidence) used in the figures are available in file Figs_S6_S8_S10_S12_data.rar.
 
-Figs.S7, S9, S11, and S13 
-Data used in the figures are available in file Figs_S7_S9_S11_S13_data.rar.
-
-Figs. S8, S10, and S12 
+Figs. S7, S9, and S11 
 Data on the location of the wells used in these figures can be found in Fig3_wells.dat.
-
